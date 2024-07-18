@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <app_config display_value="Test Brightspeed App Config">86f36c047ee3c610a29b57bd38c38c5c</app_config>
+        <description/>
+        <disable_auto_reflow>false</disable_auto_reflow>
+        <event_mappings>[
+    
+]</event_mappings>
+        <macroponent display_value="Record Default">4af36c04a1e3c61055088792b6d9a44d</macroponent>
+        <macroponent_config>{
+    "label": {
+        "type": "TRANSLATION_LITERAL",
+        "value": {
+            "code": null,
+            "message": "",
+            "comment": ""
+        }
+    },
+    "bare": {
+        "type": "JSON_LITERAL",
+        "value": true
+    },
+    "scrollable": {
+        "type": "JSON_LITERAL",
+        "value": "y"
+    },
+    "headerLevel": {
+        "type": "JSON_LITERAL",
+        "value": "1"
+    },
+    "headingOnlyVisibleToScreenReaders": {
+        "type": "JSON_LITERAL",
+        "value": false
+    },
+    "interceptNotifications": {
+        "type": "JSON_LITERAL",
+        "value": false
+    },
+    "propagateNotifications": {
+        "type": "JSON_LITERAL",
+        "value": false
+    }
+}</macroponent_config>
+        <name>Record Default</name>
+        <order>0</order>
+        <parent_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <required_translations>[ ]</required_translations>
+        <rollback_screen/>
+        <screen_condition/>
+        <screen_type display_value="Record">82f36c0476e3c610fc2c5222ffc8bf51</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>aman.s</sys_created_by>
+        <sys_created_on>2024-07-17 06:44:36</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>caf36c042ce3c610924de31dc46ecb48</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Record Default</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Test Brightspeed" source="x_niit3_test_bri_0">460f108c1ba3c6106632631abc4bcbe7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test Brightspeed">460f108c1ba3c6106632631abc4bcbe7</sys_scope>
+        <sys_update_name>sys_ux_screen_caf36c042ce3c610924de31dc46ecb48</sys_update_name>
+        <sys_updated_by>aman.s</sys_updated_by>
+        <sys_updated_on>2024-07-17 06:44:36</sys_updated_on>
+    </sys_ux_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=caf36c042ce3c610924de31dc46ecb48"/>
+</record_update>

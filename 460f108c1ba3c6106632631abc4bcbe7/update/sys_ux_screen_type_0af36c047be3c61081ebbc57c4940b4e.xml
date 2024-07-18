@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_screen_type">
+    <sys_ux_screen_type action="INSERT_OR_UPDATE">
+        <description/>
+        <name>KB</name>
+        <sys_class_name>sys_ux_screen_type</sys_class_name>
+        <sys_created_by>aman.s</sys_created_by>
+        <sys_created_on>2024-07-17 06:44:36</sys_created_on>
+        <sys_id>0af36c047be3c61081ebbc57c4940b4e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>KB</sys_name>
+        <sys_package display_value="Test Brightspeed" source="x_niit3_test_bri_0">460f108c1ba3c6106632631abc4bcbe7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test Brightspeed">460f108c1ba3c6106632631abc4bcbe7</sys_scope>
+        <sys_update_name>sys_ux_screen_type_0af36c047be3c61081ebbc57c4940b4e</sys_update_name>
+        <sys_updated_by>aman.s</sys_updated_by>
+        <sys_updated_on>2024-07-17 06:44:36</sys_updated_on>
+    </sys_ux_screen_type>
+    <sys_translated_text action="delete_multiple" query="documentkey=0af36c047be3c61081ebbc57c4940b4e"/>
+</record_update>

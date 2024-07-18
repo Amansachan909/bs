@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_source">
+    <ais_search_source action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition/>
+        <datasource display_value="">task</datasource>
+        <name>Task</name>
+        <sys_class_name>ais_search_source</sys_class_name>
+        <sys_created_by>aman.s</sys_created_by>
+        <sys_created_on>2024-07-17 06:44:45</sys_created_on>
+        <sys_id>dc04ec041be3c6106632631abc4bcb28</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Task</sys_name>
+        <sys_package display_value="Test Brightspeed" source="x_niit3_test_bri_0">460f108c1ba3c6106632631abc4bcbe7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test Brightspeed">460f108c1ba3c6106632631abc4bcbe7</sys_scope>
+        <sys_update_name>ais_search_source_dc04ec041be3c6106632631abc4bcb28</sys_update_name>
+        <sys_updated_by>aman.s</sys_updated_by>
+        <sys_updated_on>2024-07-17 06:44:45</sys_updated_on>
+    </ais_search_source>
+</record_update>

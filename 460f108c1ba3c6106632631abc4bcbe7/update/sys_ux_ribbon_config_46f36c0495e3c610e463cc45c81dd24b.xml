@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_ribbon_config">
+    <sys_ux_ribbon_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>Test Brightspeed Ribbon Config</description>
+        <name>Test Brightspeed Ribbon Config</name>
+        <sys_class_name>sys_ux_ribbon_config</sys_class_name>
+        <sys_created_by>aman.s</sys_created_by>
+        <sys_created_on>2024-07-17 06:44:38</sys_created_on>
+        <sys_id>46f36c0495e3c610e463cc45c81dd24b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Test Brightspeed Ribbon Config</sys_name>
+        <sys_package display_value="Test Brightspeed" source="x_niit3_test_bri_0">460f108c1ba3c6106632631abc4bcbe7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test Brightspeed">460f108c1ba3c6106632631abc4bcbe7</sys_scope>
+        <sys_update_name>sys_ux_ribbon_config_46f36c0495e3c610e463cc45c81dd24b</sys_update_name>
+        <sys_updated_by>aman.s</sys_updated_by>
+        <sys_updated_on>2024-07-17 06:44:38</sys_updated_on>
+    </sys_ux_ribbon_config>
+</record_update>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_suggestion_reader_group">
+    <sys_suggestion_reader_group action="INSERT_OR_UPDATE">
+        <click_in_mode>false</click_in_mode>
+        <context_config_id display_value="Test Brightspeed - Workspace Search">02f36c04c9e3c6101080d794542af353</context_config_id>
+        <limit>5</limit>
+        <order>500</order>
+        <section_header>Recently viewed</section_header>
+        <suggestion_type>User History Reader Group for Starter Workspace - Workspace Search</suggestion_type>
+        <sys_class_name>sys_suggestion_reader_group</sys_class_name>
+        <sys_created_by>aman.s</sys_created_by>
+        <sys_created_on>2024-07-17 06:44:36</sys_created_on>
+        <sys_id>06f36c0403e3c610dd7234387aee225b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>User History Reader Group for Starter Workspace - Workspace Search</sys_name>
+        <sys_package display_value="Test Brightspeed" source="x_niit3_test_bri_0">460f108c1ba3c6106632631abc4bcbe7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test Brightspeed">460f108c1ba3c6106632631abc4bcbe7</sys_scope>
+        <sys_update_name>sys_suggestion_reader_group_06f36c0403e3c610dd7234387aee225b</sys_update_name>
+        <sys_updated_by>aman.s</sys_updated_by>
+        <sys_updated_on>2024-07-17 06:44:36</sys_updated_on>
+    </sys_suggestion_reader_group>
+</record_update>
