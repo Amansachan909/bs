@@ -14,6 +14,20 @@
             <sys_user/>
             <type/>
         </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>date2_bs</element>
+            <position>2</position>
+            <sys_created_by>aman.s</sys_created_by>
+            <sys_created_on>2024-07-18 07:42:41</sys_created_on>
+            <sys_id>76da79d41bef0a106632631abc4bcbcc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_niit3_test_bri_0_test_bs" sys_domain="global" view="Default view">de553d981baf0a106632631abc4bcb0d</sys_ui_section>
+            <sys_updated_by>aman.s</sys_updated_by>
+            <sys_updated_on>2024-07-18 07:42:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
             <caption/>
             <header>false</header>
