@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="x_niit3_test_bri_0.admin" name="x_niit3_test_bri_0.admin">5e0f508c1ba3c6106632631abc4bcb07</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>aman.s</sys_created_by>
+        <sys_created_on>2024-07-17 06:23:02</sys_created_on>
+        <sys_id>5e0f508c1ba3c6106632631abc4bcb0a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>5e0f508c1ba3c6106632631abc4bcb07</sys_name>
+        <sys_package display_value="Test Brightspeed" source="x_niit3_test_bri_0">460f108c1ba3c6106632631abc4bcbe7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test Brightspeed">460f108c1ba3c6106632631abc4bcbe7</sys_scope>
+        <sys_update_name>sys_embedded_help_role_5e0f508c1ba3c6106632631abc4bcb0a</sys_update_name>
+        <sys_updated_by>aman.s</sys_updated_by>
+        <sys_updated_on>2024-07-17 06:23:02</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

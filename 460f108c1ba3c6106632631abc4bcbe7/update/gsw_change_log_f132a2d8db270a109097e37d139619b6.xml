@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="gsw_change_log">
+    <gsw_change_log action="INSERT_OR_UPDATE">
+        <change_date>2024-07-18 10:34:39</change_date>
+        <changed_by display_value="ankur ">f1d3560edb970e909097e37d139619c9</changed_by>
+        <content display_value="Enable Automate Test Framework (ATF) properties">c50d334a77622110bcdef33edc5a9972</content>
+        <related_change_log_entry/>
+        <related_task_entry/>
+        <sys_class_name>gsw_change_log</sys_class_name>
+        <sys_created_by>ankur.j</sys_created_by>
+        <sys_created_on>2024-07-18 10:34:39</sys_created_on>
+        <sys_id>f132a2d8db270a109097e37d139619b6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2024-07-18 10:34:39</sys_name>
+        <sys_package display_value="Test Brightspeed" source="x_niit3_test_bri_0">460f108c1ba3c6106632631abc4bcbe7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test Brightspeed">460f108c1ba3c6106632631abc4bcbe7</sys_scope>
+        <sys_update_name>gsw_change_log_f132a2d8db270a109097e37d139619b6</sys_update_name>
+        <sys_updated_by>ankur.j</sys_updated_by>
+        <sys_updated_on>2024-07-18 10:34:39</sys_updated_on>
+        <type>5</type>
+    </gsw_change_log>
+</record_update>

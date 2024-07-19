@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile">
+    <ais_search_profile action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>This is default AI Search profile for Test Brightspeed</description>
+        <exclude_from_evaluation>false</exclude_from_evaluation>
+        <genius_result_assembly/>
+        <label>testbrightspeed Search Profile</label>
+        <name>x_niit3_test_bri_0_xaehfyam_search_profile</name>
+        <publish_id>469b7818-1f1d-4cf3-b866-fd3a0153f2d7</publish_id>
+        <qna_model_id>bert-qa-model-1.1.6</qna_model_id>
+        <state>PUBLISHED</state>
+        <sys_class_name>ais_search_profile</sys_class_name>
+        <sys_created_by>aman.s</sys_created_by>
+        <sys_created_on>2024-07-17 06:44:36</sys_created_on>
+        <sys_id>4ef36c04d4e3c610a7212c0ce3947e5b</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>testbrightspeed Search Profile</sys_name>
+        <sys_package display_value="Test Brightspeed" source="x_niit3_test_bri_0">460f108c1ba3c6106632631abc4bcbe7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test Brightspeed">460f108c1ba3c6106632631abc4bcbe7</sys_scope>
+        <sys_update_name>ais_search_profile_4ef36c04d4e3c610a7212c0ce3947e5b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-17 07:23:15</sys_updated_on>
+    </ais_search_profile>
+</record_update>

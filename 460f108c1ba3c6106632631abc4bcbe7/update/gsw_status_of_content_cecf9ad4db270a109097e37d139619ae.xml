@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="gsw_status_of_content">
+    <gsw_status_of_content action="INSERT_OR_UPDATE">
+        <best_practice_allowed_ever>0</best_practice_allowed_ever>
+        <checksum/>
+        <content display_value="Configure Automated Test Framework (ATF) suite">d86d774a77622110bcdef33edc5a997a</content>
+        <effective_weight>0</effective_weight>
+        <more_info_visited>false</more_info_visited>
+        <previous_status>1</previous_status>
+        <progress>0</progress>
+        <related_log_entry display_value="18/07/2024 11:34:41">163226d8db270a109097e37d1396192e</related_log_entry>
+        <status>3</status>
+        <sys_class_name>gsw_status_of_content</sys_class_name>
+        <sys_created_by>ankur.j</sys_created_by>
+        <sys_created_on>2024-07-18 10:24:01</sys_created_on>
+        <sys_id>cecf9ad4db270a109097e37d139619ae</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>3</sys_name>
+        <sys_package display_value="Test Brightspeed" source="x_niit3_test_bri_0">460f108c1ba3c6106632631abc4bcbe7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test Brightspeed">460f108c1ba3c6106632631abc4bcbe7</sys_scope>
+        <sys_update_name>gsw_status_of_content_cecf9ad4db270a109097e37d139619ae</sys_update_name>
+        <sys_updated_by>ankur.j</sys_updated_by>
+        <sys_updated_on>2024-07-18 10:34:41</sys_updated_on>
+    </gsw_status_of_content>
+</record_update>

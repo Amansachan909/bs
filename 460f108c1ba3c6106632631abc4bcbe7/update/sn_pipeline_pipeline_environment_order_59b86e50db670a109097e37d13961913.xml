@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_pipeline_pipeline_environment_order">
+    <sn_pipeline_pipeline_environment_order action="INSERT_OR_UPDATE">
+        <environment display_value="Demo 4">2fa0e618db270a109097e37d13961929</environment>
+        <order>300</order>
+        <pipeline display_value="Test Brightspeed App">8fae9a54db270a109097e37d13961915</pipeline>
+        <sys_class_name>sn_pipeline_pipeline_environment_order</sys_class_name>
+        <sys_created_by>ankur.j</sys_created_by>
+        <sys_created_on>2024-07-18 11:03:11</sys_created_on>
+        <sys_id>59b86e50db670a109097e37d13961913</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Test Brightspeed" source="x_niit3_test_bri_0">460f108c1ba3c6106632631abc4bcbe7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test Brightspeed">460f108c1ba3c6106632631abc4bcbe7</sys_scope>
+        <sys_update_name>sn_pipeline_pipeline_environment_order_59b86e50db670a109097e37d13961913</sys_update_name>
+        <sys_updated_by>ankur.j</sys_updated_by>
+        <sys_updated_on>2024-07-18 11:03:19</sys_updated_on>
+    </sn_pipeline_pipeline_environment_order>
+</record_update>
