@@ -8,10 +8,10 @@
         <derived>true</derived>
         <field/>
         <label>testbrightspeed Search Profile Default Spell Check Dictionary</label>
-        <last_derived>2024-07-19 07:26:57</last_derived>
+        <last_derived>2024-07-22 08:26:57</last_derived>
         <locale>en</locale>
         <name>x_niit3_test_bri_0_testbrightspeed_search_profile_default_spell_check_dictionary</name>
-        <publish_id>0baba399-d395-4171-aead-cffe3b22b030</publish_id>
+        <publish_id>7b3251e3-bfb5-4edf-b92d-71c5a458a4aa</publish_id>
         <punctuation_sensitive>false</punctuation_sensitive>
         <state>PUBLISHED</state>
         <sys_class_name>ais_dictionary</sys_class_name>
